@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    padding-left: 7%;
+    padding-right: 7%;
+    background-color: #222222;
+    padding-top: 25px;
+    padding-bottom: 35px;
+}
+#jng-paper{
+    font-size: 3vw;
+    color: white;
+
+}
+#down-logo{
+    font-size: 1vw;
+    color: white;
+}
+#online-work a {
+    text-decoration: none;
+    color: #525347;
+    font-size: 1.3vw;
+}
+#online-work a:hover {
+    color: #60cfb7;
+    transition: 0.5s;
+}
+#online-work p {
+    color: #525347;
+    font-size: 0.8vw;
+}
+#first-nav{
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    left: 60%;
+    margin-top: -5%;
+}
+#second-nav {
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    left: 60%;
+    margin-top: -1%;
+}
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    visibility: visible;
+    z-index: 999;
+    transition: all 0.3s linear;
+}
+
+.hide-preloader {
+    z-index: -999;
+    visibility: hidden;
+}
+article{
+    background-color: #f3f3f3;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 20px;
+    display: flex;
+    gap: 20px;
+}
+#welcome{
+    font-size: 1.5vw;
+    color: #525347;
+    border-bottom: 1px dotted #525347;
+    padding-bottom: 10px;
+}
+#welcome-div, #what-div{
+    width: 35%;
+}
+#first-welcome{
+    padding-top: 1vw;
+    font-size: 1vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 2vw;
+}
+#first-welcome span, #second-welcome span, #third-welcome span{
+    color: #02b5dc;
+}
+#second-welcome, #third-welcome{
+    padding-top: 0.5vw;
+    font-size: 1vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 2vw;
+}
+#provide{
+    padding-top: 1vw;
+        font-size: 1vw;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#provide-two, .provide-two{
+        font-size: 1vw;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            padding-bottom: 0.5vw;
+}
+#latest-div{
+    padding-top: 2%;
+    padding-left: 10%;
+        padding-right: 10%;
+        text-align: center;
+}
+#latest-div h1{
+    color: #dddddd;
+    font-size: 13vw;
+
+}
+main{
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 2.5vw;
+}
+#muskesh-news{
+    border: 0.2px solid #68695c;
+    padding: 0.5vw;
+    width: 80%;
+    padding-bottom: 1.5vw;
+}
+#muskesh-div{
+    width: 40%;
+}
+#muskesh-div h2{
+    font-size: 1.3vw;
+    color: #222222;
+    padding-bottom: 1.5vw;
+}
+#muskesh-div p{
+    line-height: 1.4vw;
+    font-size: 1vw;
+    width: 80%;
+    padding-bottom: 0.2vw;
+}
+#muskesh-div a{
+    color: #02b5dc;
+    text-decoration: none;
+    font-size: 1vw;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+}
+footer h2{
+    font-size: 1.3vw;
+    border-bottom: 1px dotted white;
+    padding-bottom: 5px;
+}
+#about-myself, #contact-div{
+    width: 40%;
+}
+footer img{
+    width: 30%;
+    border: 1px solid #525347;
+    padding: 10px;
+}
+#user-display{
+    display: flex;
+    gap: 10px;
+}
+#user-display p, footer p{
+    font-size: 1vw;
+}
+footer{
+    display: flex;
+    gap: 5vw;
+    padding-bottom: 2vw;
+}
+#line-height-div{
+    line-height: 1.7vw;
+}
+#twitter a{
+    color: #60cfb7;
+    
+}
+section{
+    font-size: 1.5vw;
+    background-color: #333333;
+    text-align: center;
+    color: white;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+#online-work a{
+    color: #60cfb7;
+}

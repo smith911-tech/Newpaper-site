@@ -1,0 +1,49 @@
+#blog {
+    display: block;
+    padding-left: 15%;
+    padding-top: 4%;
+    padding-right: 15%;
+    background-color: #f3f3f3;
+}
+#blog img{
+    width: 100%;
+    padding-bottom: 1vw;
+}
+#first-one{
+    font-size: 1.7vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    padding-bottom: 3vw;
+}
+#second-one{
+    font-size: 1.5vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 70%;
+    padding-bottom: 2vw;
+}
+ul li {
+    list-style-type: decimal;
+    font-size: 1.8vw;
+    font-weight: 900;
+}
+#iceland-text{
+    width: 60%;
+    padding-bottom: 2.5vw;
+    font-size: 1.3vw;
+    font-style: italic;font-weight: 900;
+}
+#important{
+    font-size: 1.5vw;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+dd {
+    padding-right: 20%;
+    padding-left: 20%;
+    text-align: right;
+    font-size: 1.3vw;
+}
+#background-graphy {
+    background-color: rgb(169, 3, 3);
+    padding: 3vw;
+    color: white;
+}

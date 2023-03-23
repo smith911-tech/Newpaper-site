@@ -1,0 +1,17 @@
+#page{
+    padding-left: 10%;
+    padding-top: 4%;
+    padding-right: 10%;
+    background-color: #f3f3f3;
+}
+#page{
+font-size: 4vw;
+    color: #e30c0c9f;
+}
+#home-page{
+    font-size: 2vw;
+}
+#back-home{
+    padding: 2vw;
+    text-align: right;
+}

@@ -1,0 +1,32 @@
+#blog {
+    display: block;
+    padding-left: 15%;
+    padding-top: 4%;
+    padding-right: 15%;
+    background-color: #f3f3f3;
+}
+#blog h1{
+    text-align: center;
+    font-weight: 900;
+    font-family:  'Arial Narrow Bold', sans-serif;
+    padding-bottom: 1vw;
+}
+#blog p{
+    font-size: 1.8vw;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 2vw;
+}
+ul li {
+    list-style-type: decimal;
+    font-size: 1.5vw;
+    line-height: 2vw;
+}
+#div img{
+    width: 100%;
+}
+dd {
+    padding-right: 20%;
+    padding-left: 20%;
+    text-align: right;
+        font-size: 1.3vw;
+}
